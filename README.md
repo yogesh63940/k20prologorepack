@@ -1,5 +1,5 @@
 # Custom Splash/Logo For Redmi K20 Pro
-Script To Repack Custom Logo.img For Redmi K20 Pro.
+Script to repack custom logo.img for Redmi K20 Pro.
 
 Images must be in .bmp format.
 
